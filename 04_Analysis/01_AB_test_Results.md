@@ -9,13 +9,9 @@ The experiment compares users exposed to advertisements (Ad group) with users sh
 ## Group Performance
 
 | Metric | Ad Group | PSA Group |
-
-| --- | --- | --- |
-
+|---|---:|---:|
 | Users | 564,577 | 23,524 |
-
 | Conversions | 14,423 | 420 |
-
 | Conversion Rate | 2.5547% | 1.7854% |
 
 
