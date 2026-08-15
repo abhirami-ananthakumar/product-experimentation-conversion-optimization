@@ -19,9 +19,9 @@ The experiment compares users exposed to advertisements (Ad group) with users sh
 
 The Ad group achieved a higher conversion rate than the PSA group.
 
-- \*\*Absolute conversion difference:\*\* 0.7692 percentage points
+- **Absolute conversion difference:** 0.7692 percentage points
 
-- \*\*Relative conversion lift:\*\* 43.09%
+- **Relative conversion lift:** 43.09%
 
 This means the observed conversion rate in the Ad group was approximately 43.09% higher relative to the PSA control group.
 
