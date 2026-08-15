@@ -158,7 +158,7 @@ The Ad group achieved a higher conversion rate than the PSA control group.
 
 - **Ad conversion rate:** 2.55%
 - **PSA conversion rate:** 1.79%
-- **Absolute difference:** 0.77 percentage points
+- **Absolute difference:** 0.7692 percentage points
 - **Relative conversion lift:** 43.09%
 
 The Ad campaign achieved approximately **43.09% higher relative conversion performance** compared with the PSA group.
@@ -536,7 +536,7 @@ Product Experimentation & Conversion Optimization/
 Data Analyst | Business Intelligence | Data Analytics
 
 - **LinkedIn:** [https://www.linkedin.com/in/abhirami-ananthakumar-8b83a5256]
-- **GitHub:** [Add your GitHub profile](YOUR_GITHUB_URL)
+- **GitHub:** [https://github.com/abhirami-ananthakumar/product-experimentation-conversion-optimization]
 
 This project was developed as part of a portfolio focused on data analytics, experimentation, business intelligence, and data-driven decision-making.---
 
