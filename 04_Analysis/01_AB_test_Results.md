@@ -10,7 +10,7 @@ The experiment compares users exposed to advertisements (Ad group) with users sh
 
 | Metric | Ad Group | PSA Group |
 
-|---|---:|---:|
+|---|---|---|
 
 | Users | 564,577 | 23,524 |
 
