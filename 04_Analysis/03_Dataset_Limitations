@@ -1,0 +1,75 @@
+# Dataset Limitations
+
+## 1. Unequal Experiment Group Sizes
+
+The experiment contains substantially more users in the Ad group than in the PSA control group.
+
+- **Ad group:** 564,577 users
+- **PSA group:** 23,524 users
+
+The statistical test accounts for the different sample sizes, but the substantial group imbalance should still be considered when interpreting the experiment results.
+
+## 2. Limited Business Economics
+
+The dataset provides conversion information but does not include important financial metrics such as:
+
+- Advertising spend
+- Customer acquisition cost
+- Revenue per conversion
+- Profit margin
+- Customer lifetime value
+- Return on advertising spend
+
+Therefore, a statistically significant improvement in conversion does not automatically mean that the campaign is financially profitable.
+
+## 3. Limited Customer-Level Information
+
+The dataset does not provide detailed customer characteristics such as demographics, purchasing power, or customer lifetime value.
+
+This limits deeper customer segmentation and makes it difficult to determine whether campaign effectiveness varies across different customer-value or demographic segments.
+
+## 4. Ad Exposure and Conversion Relationship
+
+Higher ad exposure is associated with higher observed conversion rates in the dataset.
+
+However, this relationship should not automatically be interpreted as causal. Users receiving different levels of ad exposure may differ in ways that are not captured by the dataset.
+
+The A/B experiment provides evidence for the difference between the assigned Ad and PSA groups, while analysis across different exposure levels is primarily observational.
+
+Further controlled experimentation is recommended before making decisions about increasing customer ad exposure.
+
+## 5. Limited Observation Period and Generalizability
+
+The results are based on the available observation period and this particular experiment.
+
+The findings may not generalize directly to:
+
+- Different customer populations
+- Different advertising campaigns
+- Different seasons
+- Different markets
+- Future customer behavior
+
+Additional experiments across different periods and customer populations would strengthen confidence in the findings.
+
+## 6. Conversion as the Primary Outcome
+
+The analysis focuses primarily on conversion.
+
+Other important product and marketing outcomes, such as:
+
+- Retention
+- Repeat purchases
+- Engagement
+- Revenue
+- Customer lifetime value
+
+are not available in the dataset.
+
+Therefore, the analysis measures campaign effectiveness primarily through conversion rather than long-term customer or financial outcomes.
+
+## Overall Limitation
+
+The A/B test provides strong statistical evidence that the Ad group achieved a higher conversion rate than the PSA group.
+
+However, statistical significance alone does not determine whether the campaign should be scaled without restriction. The final business decision should also consider campaign economics, customer value, long-term outcomes, exposure efficiency, and additional controlled experimentation.
