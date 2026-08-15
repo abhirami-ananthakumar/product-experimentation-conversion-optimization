@@ -538,7 +538,9 @@ Data Analyst | Business Intelligence | Data Analytics
 - **LinkedIn:** [https://www.linkedin.com/in/abhirami-ananthakumar-8b83a5256]
 - **GitHub:** [https://github.com/abhirami-ananthakumar/product-experimentation-conversion-optimization]
 
-This project was developed as part of a portfolio focused on data analytics, experimentation, business intelligence, and data-driven decision-making.---
+This project was developed as part of a portfolio focused on data analytics, experimentation, business intelligence, and data-driven decision-making.
+
+---
 
 
 
