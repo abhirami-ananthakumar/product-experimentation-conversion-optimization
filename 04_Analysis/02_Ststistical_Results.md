@@ -12,11 +12,11 @@ There is a difference in conversion rates between the Ad and PSA groups.
 
 ## Statistical Test
 
-A \*\*two-proportion Z-test\*\* was used to compare the conversion rates of the Ad and PSA groups.
+A **two-proportion Z-test** was used to compare the conversion rates of the Ad and PSA groups.
 
 Significance level:
 
-\*\*α = 0.05\*\*
+**α = 0.05**
 
 ## Test Results
 
@@ -35,7 +35,7 @@ The confidence interval for the conversion-rate difference is entirely above zer
 
 ## Statistical Conclusion
 
-The Ad group achieved a \*\*statistically significant higher conversion rate\*\* than the PSA control group.
+The Ad group achieved a **statistically significant higher conversion rate** than the PSA control group.
 
 The observed improvement is therefore unlikely to be explained by random sampling variation alone.
 
@@ -43,11 +43,11 @@ The observed improvement is therefore unlikely to be explained by random samplin
 
 The Ad group produced:
 
-- \*\*2.5547% conversion rate\*\*
+- **2.5547% conversion rate**
 
-- \*\*0.7692 percentage-point absolute improvement\*\*
+- **0.7692 percentage-point absolute improvement**
 
-- \*\*43.09% relative conversion lift\*\*
+- **43.09% relative conversion lift**
 
 Statistical significance indicates that the observed difference is unlikely to be due to chance. It does not, by itself, determine whether the campaign is financially worthwhile.
 
